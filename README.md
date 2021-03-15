@@ -3,7 +3,7 @@ This application helps doctors and caregivers manage their patients.<br>
 Users can check on the personal account their medication plans,<br>
 caregivers can see their patients and doctors are able to<br>
 create, update or delete any patient/caregiver/medication/plan.
-<br>
+<br><br>
 The backend for this application is [Platform-backend](https://github.com/hsergiu/Platform-backend).
 ## Available Scripts
 
